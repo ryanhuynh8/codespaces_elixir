@@ -1,4 +1,4 @@
-FROM elixir:1.12.2-slim
+FROM elixir:latest
 
 ARG USERNAME=vscode
 
